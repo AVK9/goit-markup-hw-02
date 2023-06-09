@@ -35,7 +35,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.logotip-part2 {
+.logotip-part-two {
   color: var(--logo-color2);
 }
 
@@ -46,11 +46,9 @@ body {
   letter-spacing: 0.02em;
   color: var(--brand-color);
 }
-.menu-header:hover {
-  color: var(--logo-color1);
-}
+.menu-header:hover,
 .menu-header:focus {
-  color: var(--logo-color1);
+  color: #404bbf;
 }
 .kontakts {
   font-style: normal;
@@ -59,19 +57,19 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--brand-color);
+  color: #434455;
 }
 .section-order-service {
   background-color: var(--brand-color);
 }
-.zagolov1 {
+.zagolov-first {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.zagolov2 {
+.zagolov-two {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -93,7 +91,7 @@ body {
   background-color: var(--bc-button-fover);
   cursor: pointer;
 }
-.zagolov3 {
+.zagolov-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -166,7 +164,7 @@ body {
   text-transform: uppercase;
   color: var(--logo-color1);
 }
-.logo-footer-part2 {
+.logo-footer-part-two {
   color: var(--bc-footer-text);
 }
 .footer-text {
