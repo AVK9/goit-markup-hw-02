@@ -7,7 +7,6 @@ body {
   --logo-color1: #4d5ae5;
   --logo-color2: #2e2f42;
   --brand-color: #2e2f42;
-  --brand-color-background: #ffffff;
   --bc-button: #f4f4fd;
   --bc-button-fover: #404bbf;
   --bc-button-text: #4d5ae5;
@@ -134,12 +133,6 @@ body {
   background-color: var(--bc-button-fover);
   cursor: pointer;
 }
-/*  
-.plan-portfolios {
-  list-style: none;
-  text-decoration: none;
-}
-*/
 
 .name-portfolio {
   font-weight: 500;
