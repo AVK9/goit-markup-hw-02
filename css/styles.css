@@ -134,11 +134,13 @@ body {
   background-color: var(--bc-button-fover);
   cursor: pointer;
 }
-
+/*  
 .plan-portfolios {
   list-style: none;
   text-decoration: none;
 }
+*/
+
 .name-portfolio {
   font-weight: 500;
   font-size: 20px;
